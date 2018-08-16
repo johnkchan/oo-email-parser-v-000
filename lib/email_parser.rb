@@ -9,4 +9,8 @@ class EmailParser
     
   end
   
+  def instance()
+    
+  end
+  
 end
