@@ -10,7 +10,7 @@ class EmailParser
   end
   
   def instance()
-    @emails.split(",")
+    @emails.split(", ")
   end
   
 end
