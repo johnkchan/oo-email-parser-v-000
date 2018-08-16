@@ -5,8 +5,8 @@
 
 class EmailParser
   
-  def initialize()
-    
+  def initialize(emails)
+    @emails = emails
   end
   
   def instance()
